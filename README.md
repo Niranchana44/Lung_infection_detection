@@ -84,4 +84,10 @@ This project aims to develop an automated deep learning model capable of identif
 ## **Tools Used**
 - **TensorFlow** with **Keras API**  
 - **NumPy**, **Matplotlib**, **Pandas** for data preprocessing and visualization  
-- **Google Colab** for model training and experimentation 
+- **Google Colab** for model training and experimentation
+
+
+## License
+
+This project is licensed under the Apache License 2.0.  
+See the [LICENSE](LICENSE) file for details.
