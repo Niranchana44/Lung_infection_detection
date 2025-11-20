@@ -50,7 +50,7 @@ This project aims to develop an automated deep learning model capable of identif
 - Simple CNN built with Conv2D, Batch Normalization, Dropout, and Dense layers (input size: 48×48).  
 - **Optimizer:** RMSProp  
 - **Loss:** Categorical Crossentropy  
-- Achieved moderate accuracy but showed mild overfitting due to limited data.
+- Achieved moderate accuracy but showed severe overfitting due to limited data.
 
 - Initially used the pretrained weights directly. Later unfroze selected layers to fine-tune the model, adapting it to lung infection classes that differed from ImageNet categories.
 
