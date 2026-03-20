@@ -66,10 +66,6 @@ This project aims to develop an automated deep learning model capable of identif
 - **Metrics:** Accuracy, Precision, Recall, F1  
 - **Performance:** ~98% accuracy, F1 ≈ 0.98 (best-performing model)
 
-## **Results Summary**
-- **Best Model:** DenseNet121 (Transfer Learning + Fine-Tuning)  
-- **Test Accuracy:** ~98%  
-- **F1 Score:** ~0.98  
 - Demonstrated excellent generalization across all classes, outperforming baseline and other pretrained models.
 
 
